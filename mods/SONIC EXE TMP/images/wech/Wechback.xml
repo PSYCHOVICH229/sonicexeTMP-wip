@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Wechback.png">
+<SubTexture name="idle0000" x="0" y="0" width="402" height="746" frameX="-59" frameY="-32" frameWidth="516" frameHeight="784" />
+<SubTexture name="idle0001" x="402" y="0" width="403" height="745" frameX="-59" frameY="-33" frameWidth="516" frameHeight="784" />
+<SubTexture name="idle0002" x="805" y="0" width="403" height="745" frameX="-60" frameY="-33" frameWidth="516" frameHeight="784" />
+<SubTexture name="idle0003" x="0" y="746" width="409" height="746" frameX="-54" frameY="-32" frameWidth="516" frameHeight="784" />
+<SubTexture name="idle0004" x="409" y="746" width="409" height="746" frameX="-53" frameY="-32" frameWidth="516" frameHeight="784" />
+</TextureAtlas>

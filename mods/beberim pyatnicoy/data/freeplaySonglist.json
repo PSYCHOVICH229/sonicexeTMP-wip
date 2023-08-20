@@ -1,0 +1,44 @@
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": null,
+			"char": "FUCKERCHO",
+			"bpm": 146,
+			"name": "markods",
+			"color": "#155B1F"
+		},
+		{
+			"displayName": "TADAGAYBOWSER",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "bf",
+			"color": "#FFFFFF",
+			"name": "tadagaybo",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "SLOJNOPIZDEC",
+			"char": "bf",
+			"bpm": 150,
+			"name": "monogold",
+			"color": "#070303"
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": null,
+			"char": "FUCKERCHO",
+			"name": "insomnia",
+			"color": "#FFFFFF"
+		}
+	]
+}

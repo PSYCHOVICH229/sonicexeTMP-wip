@@ -1,0 +1,28 @@
+{
+	"songs": [
+		{
+			"displayName": "pencilcase",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "dimdad",
+			"color": "#FA0505",
+			"name": "pencilcase",
+			"bpm": 150
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "sasic",
+			"name": "pingascase",
+			"color": "#FDF521"
+		}
+	]
+}

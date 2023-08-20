@@ -1,0 +1,86 @@
+{
+	"songs": [
+		{
+			"displayName": "too slow encore",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "your-char",
+			"color": "#022097",
+			"name": "too-slow-encore",
+			"bpm": 135
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "old ycr",
+			"char": "old ycr sosic",
+			"bpm": 150,
+			"name": "old ycr",
+			"color": "#FFFFFF"
+		},
+		{
+			"displayName": "personel",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "coldsteel the hedgeheg",
+			"color": "#080707",
+			"name": "personel",
+			"bpm": 150
+		},
+		{
+			"displayName": "endless encore",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "majin",
+			"color": "#012BA2",
+			"name": "endless-encore",
+			"bpm": 150
+		},
+		{
+			"displayName": "OG endless",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "majin",
+			"color": "#3F03A5",
+			"name": "endless og",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Round A Bout",
+			"char": "needlem0use",
+			"bpm": 150,
+			"name": "Round-A-Bout",
+			"color": "#EF0612"
+		},
+		{
+			"displayName": "Face off ice cap",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "bf",
+			"color": "#050000",
+			"name": "Face-off",
+			"bpm": 150
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "My horizon honkish",
+			"char": "Bored",
+			"name": "MHWECH",
+			"color": "#F70808"
+		}
+	]
+}

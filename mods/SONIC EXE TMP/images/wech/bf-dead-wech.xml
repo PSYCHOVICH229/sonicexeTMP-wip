@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-dead-wech.png">
+<SubTexture name="appear0000" x="0" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0001" x="0" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0002" x="0" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0003" x="0" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0004" x="0" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0005" x="357" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0006" x="714" y="0" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0007" x="0" y="524" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0008" x="357" y="524" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0009" x="714" y="524" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="appear0010" x="0" y="1048" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="idle0000" x="357" y="1048" width="355" height="525" frameX="-160" frameY="-123" frameWidth="659" frameHeight="664" />
+<SubTexture name="idle0001" x="0" y="1575" width="357" height="524" frameX="-159" frameY="-124" frameWidth="659" frameHeight="664" />
+<SubTexture name="idle0002" x="712" y="1048" width="355" height="527" frameX="-160" frameY="-121" frameWidth="659" frameHeight="664" />
+</TextureAtlas>

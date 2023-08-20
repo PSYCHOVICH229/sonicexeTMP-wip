@@ -1,0 +1,21 @@
+assets/credits.json
+assets/images/FNF_main_menu_assets.png
+assets/images/FNF_main_menu_assets.xml
+assets/images/Yoshi_Engine_download_screen.png
+assets/images/campaign_menu_UI_main_characters.png
+assets/images/campaign_menu_UI_main_characters.xml
+assets/images/credits/siivkoi.png
+assets/sounds/disabledMenu.ogg
+manifest/default.json
+manifest/mods.json
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.xml
+mods/YoshiEngine/data/introText.txt
+mods/YoshiEngine/images/menuBG.png
+mods/YoshiEngine/images/menuBGBlue.png
+mods/YoshiEngine/images/menuBGMagenta.png
+mods/YoshiEngine/images/menuBGYoshi.png
+mods/YoshiEngine/images/menuDesat.png
+assets/images/outdatedAssets.png
+assets/images/outdatedAssets.xml
+YoshiEngine.exe

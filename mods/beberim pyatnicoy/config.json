@@ -1,0 +1,36 @@
+{
+	"skinnableGFs": [],
+	"discordRpc": null,
+	"BFskins": [],
+	"downloadLink": null,
+	"locked": true,
+	"keyNumbers": [
+		4
+	],
+	"name": "bebrim pyatnicoy",
+	"skinnableBFs": [],
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"description": "(No description)",
+	"titleBarName": "Friday Night Funkin' - Mod Name",
+	"GFskins": [],
+	"downloadLinkAlt": null
+}

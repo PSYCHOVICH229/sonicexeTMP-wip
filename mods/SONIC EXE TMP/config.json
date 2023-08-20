@@ -1,0 +1,36 @@
+{
+	"skinnableGFs": [],
+	"discordRpc": null,
+	"BFskins": [],
+	"downloadLink": null,
+	"locked": false,
+	"keyNumbers": [
+		4
+	],
+	"name": "Sonic.exe THE MEGA PORT",
+	"skinnableBFs": [],
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"description": "The best port ever/j",
+	"titleBarName": "Sonic.exe TMP",
+	"GFskins": [],
+	"downloadLinkAlt": null
+}

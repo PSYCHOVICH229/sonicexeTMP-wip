@@ -1,0 +1,48 @@
+{
+	"songs": [
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "markods"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "markov"
+		},
+		{
+			"scripts": [
+				"beberim pyatnicoy:/character_switching_event"
+			],
+			"difficulties": null,
+			"end_cutscene": "",
+			"cutscene": "",
+			"name": "tadagaybow"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "tadagaybo"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "monogold"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "insomnia"
+		}
+	]
+}

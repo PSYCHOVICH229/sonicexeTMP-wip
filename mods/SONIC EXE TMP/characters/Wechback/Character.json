@@ -1,0 +1,44 @@
+{
+	"arrowColors": [
+		"#E9010D",
+		"#FF000D",
+		"#FA053B",
+		"#F93958"
+	],
+	"camOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"healthbarColor": "#8F1326",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 31,
+			"y": 2,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle",
+			"framerate": 12
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

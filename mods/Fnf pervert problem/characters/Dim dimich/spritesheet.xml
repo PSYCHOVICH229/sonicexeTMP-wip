@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dimdimych_assets.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dim-d0000" x="5" y="5" width="931" height="820" frameX="0" frameY="-24" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0001" x="5" y="5" width="931" height="820" frameX="0" frameY="-24" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0002" x="941" y="5" width="868" height="833" frameX="-18" frameY="-4" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0003" x="941" y="5" width="868" height="833" frameX="-18" frameY="-4" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0004" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0005" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0006" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0007" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0008" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-d0009" x="1814" y="5" width="860" height="835" frameX="-20" frameY="0" frameWidth="931" frameHeight="844"/>
+	<SubTexture name="dim-i0000" x="2679" y="5" width="861" height="910" frameX="0" frameY="-24" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0001" x="2679" y="5" width="861" height="910" frameX="0" frameY="-24" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0002" x="3545" y="5" width="848" height="918" frameX="-5" frameY="-21" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0003" x="3545" y="5" width="848" height="918" frameX="-5" frameY="-21" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0004" x="4398" y="5" width="840" height="934" frameX="-11" frameY="-5" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0005" x="4398" y="5" width="840" height="934" frameX="-11" frameY="-5" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0006" x="5243" y="5" width="838" height="935" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0007" x="6086" y="5" width="838" height="935" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0008" x="6929" y="5" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0009" x="5" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0010" x="849" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0011" x="1693" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0012" x="849" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0013" x="1693" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-i0014" x="849" y="945" width="839" height="933" frameX="-13" frameY="0" frameWidth="861" frameHeight="939"/>
+	<SubTexture name="dim-l0000" x="2537" y="945" width="892" height="850" frameX="0" frameY="-3" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0001" x="2537" y="945" width="892" height="850" frameX="0" frameY="-3" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0002" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0003" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0004" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0005" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0006" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0007" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0008" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-l0009" x="3434" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-d0000" x="4310" y="945" width="931" height="820" frameX="0" frameY="-20" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0001" x="4310" y="945" width="931" height="820" frameX="0" frameY="-20" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0002" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0003" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0004" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0005" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0006" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0007" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0008" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-d0009" x="5246" y="945" width="868" height="833" frameX="-18" frameY="0" frameWidth="931" frameHeight="840"/>
+	<SubTexture name="dim-miss-l0000" x="6119" y="945" width="892" height="850" frameX="0" frameY="-3" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0001" x="6119" y="945" width="892" height="850" frameX="0" frameY="-3" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0002" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0003" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0004" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0005" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0006" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0007" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0008" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-l0009" x="7016" y="945" width="871" height="853" frameX="-4" frameY="0" frameWidth="892" frameHeight="853"/>
+	<SubTexture name="dim-miss-r0000" x="5" y="1883" width="813" height="942" frameX="-2" frameY="-1" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0001" x="5" y="1883" width="813" height="942" frameX="-2" frameY="-1" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0002" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0003" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0004" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0005" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0006" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0007" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0008" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-r0009" x="823" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-miss-u0000" x="1643" y="1883" width="797" height="886" frameX="-2" frameY="0" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0001" x="1643" y="1883" width="797" height="886" frameX="-2" frameY="0" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0002" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0003" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0004" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0005" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0006" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0007" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0008" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-miss-u0009" x="2445" y="1883" width="800" height="875" frameX="0" frameY="-10" frameWidth="800" frameHeight="886"/>
+	<SubTexture name="dim-r0000" x="3250" y="1883" width="813" height="942" frameX="-2" frameY="-1" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0001" x="3250" y="1883" width="813" height="942" frameX="-2" frameY="-1" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0002" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0003" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0004" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0005" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0006" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0007" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0008" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-r0009" x="4068" y="1883" width="815" height="938" frameX="0" frameY="0" frameWidth="815" frameHeight="943"/>
+	<SubTexture name="dim-skull0000" x="4888" y="1883" width="844" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0001" x="4888" y="1883" width="844" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0002" x="5737" y="1883" width="852" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0003" x="5737" y="1883" width="852" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0004" x="6594" y="1883" width="860" height="933"/>
+	<SubTexture name="dim-skull0005" x="6594" y="1883" width="860" height="933"/>
+	<SubTexture name="dim-skull0006" x="5" y="2830" width="859" height="933" frameX="-1" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0007" x="869" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0008" x="869" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0009" x="869" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0010" x="869" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0011" x="1711" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skull0012" x="2553" y="2830" width="837" height="933" frameX="-5" frameY="0" frameWidth="860" frameHeight="933"/>
+	<SubTexture name="dim-skuloop0000" x="3395" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0001" x="4237" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0002" x="4237" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0003" x="5079" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0004" x="5079" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0005" x="5921" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0006" x="5921" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0007" x="6763" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0008" x="6763" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0009" x="6763" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0010" x="6763" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0011" x="6763" y="2830" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0012" x="5" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0013" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0014" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0015" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0016" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0017" x="1689" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0018" x="2531" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0019" x="2531" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0020" x="3373" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0021" x="3373" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0022" x="4215" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0023" x="4215" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0024" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0025" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0026" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0027" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0028" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0029" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0030" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0031" x="847" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0032" x="5057" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skuloop0033" x="5899" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0000" x="6741" y="3768" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0001" x="5" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0002" x="5" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0003" x="847" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0004" x="1689" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0005" x="1689" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0006" x="2531" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0007" x="3373" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0008" x="4215" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0009" x="5057" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0010" x="5899" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0011" x="6741" y="4706" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0012" x="5" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0013" x="847" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0014" x="1689" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0015" x="2531" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0016" x="3373" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0017" x="4215" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0018" x="5057" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0019" x="5899" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0020" x="6741" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0021" x="6741" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0022" x="6741" y="5644" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0023" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0024" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0025" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0026" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0027" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0028" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0029" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0030" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0031" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0032" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-skulspawn0033" x="5" y="6582" width="837" height="933"/>
+	<SubTexture name="dim-u0000" x="847" y="6582" width="797" height="886" frameX="-3" frameY="0" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0001" x="847" y="6582" width="797" height="886" frameX="-3" frameY="0" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0002" x="1649" y="6582" width="800" height="875" frameX="-1" frameY="-10" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0003" x="1649" y="6582" width="800" height="875" frameX="-1" frameY="-10" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0004" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0005" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0006" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0007" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0008" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+	<SubTexture name="dim-u0009" x="2454" y="6582" width="801" height="873" frameX="0" frameY="-12" frameWidth="801" frameHeight="886"/>
+</TextureAtlas>

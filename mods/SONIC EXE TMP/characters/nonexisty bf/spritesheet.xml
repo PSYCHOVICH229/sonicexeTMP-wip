@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic_ugly.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a homophobic person0000" x="0" y="0" width="1238" height="1197"/>
+	<SubTexture name="amor altra0000" x="1238" y="0" width="1113" height="1122"/>
+	<SubTexture name="lesbian0000" x="2351" y="0" width="986" height="1162"/>
+	<SubTexture name="main unit0000" x="0" y="1197" width="968" height="954"/>
+	<SubTexture name="male addiction0000" x="968" y="1197" width="1287" height="1240"/>
+</TextureAtlas>
