@@ -65,7 +65,8 @@
 		{
 			"displayName": "Face off ice cap",
 			"difficulties": [
-				"Hard"
+				"Hard",
+				"Normal"
 			],
 			"char": "bf",
 			"color": "#050000",
@@ -73,14 +74,46 @@
 			"bpm": 150
 		},
 		{
-			"bpm": 150,
 			"difficulties": [
 				"Hard"
 			],
-			"displayName": "My horizon honkish",
+			"displayName": "dont play this shit",
 			"char": "Bored",
+			"bpm": 150,
 			"name": "MHWECH",
 			"color": "#F70808"
+		},
+		{
+			"displayName": "REROY DKJNDGLJKNSDGJSGFJLKGF",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "reroy1",
+			"color": "#FFFFFF",
+			"name": "reroy",
+			"bpm": 150
+		},
+		{
+			"displayName": "my horizon honkish v1",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "Wech_ii_ddi",
+			"color": "#8E0B0B",
+			"name": "mhor",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "my horizon honkish v2",
+			"char": "wech_ii_ddi",
+			"bpm": 150,
+			"name": "mhorv2",
+			"color": "#6E1212"
 		}
 	]
 }
